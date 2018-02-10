@@ -1,0 +1,12 @@
+.main-table-container{
+    background-color: #FFFFFF;
+    width: 74%;
+    color: #333333;
+    height: auto;
+    margin: 123px 303px;
+    overflow: hidden;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+    float: none;
+}

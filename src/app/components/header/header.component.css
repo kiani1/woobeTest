@@ -1,0 +1,13 @@
+.selectedSubsidiary{
+  background-color: black;
+  color: #fff;
+}
+.navbar-right-menu .flag{
+  margin-right: 6px;
+}
+.dropdown-item{
+  font-size: 13px;
+}
+.hdrop a img{
+  width:80% !important;
+}
